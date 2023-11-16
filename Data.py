@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-# This code is from https://github.com/abisee/cnn-dailymail.git
+# Project by Soumalya Bhattacharyya(Machine Learning Intern -Suvidha Foundation)
 
 import sys
 import os
