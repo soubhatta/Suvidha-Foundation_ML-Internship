@@ -1,8 +1,8 @@
-# Suvidha-Foundation_ML-Internship
+## Suvidha-Foundation_ML-Internship
 The project model is based on enhancing text summarization with a focus on rare and infrequently used words built with CNN/DailyMail Dataset using Python Libraries and Machine Learning Algorithms
 
 
-# TOPIC NAME - Text Summarization With Rare Words
+## TOPIC NAME - Text Summarization With Rare Words
 In an age of burgeoning online content, automatic text summarization has become an indispensable solution. Addressing the issue of less common and seldom utilized words poses a significant challenge in text summarization. Diverse facets of extractive, abstractive, and hybrid methodologies leverage transformer models and attention mechanisms to revolutionize text summarization. The outcomes were evaluated using the renowned ROUGE metric.
 
 
